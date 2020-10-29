@@ -1,5 +1,5 @@
 # Calculator-for-SwiftUI
-A simple and modern calculator app written by SwiftUI
+A simple and modern calculator app using SwiftUI
 
 ## Installation ##
 * Git and clone <br/>
